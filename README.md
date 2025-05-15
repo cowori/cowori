@@ -1,7 +1,6 @@
 # Hi there, I'm Collins Mark Owori
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collin-mark-owori-2b2424222/)
-[![GitHub Followers](https://img.shields.io/github/followers/CollinsMarkOwori?label=Follow&style=for-the-badge)](https://github.com/CollinsMarkOwori)
 
 ---
 
