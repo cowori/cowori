@@ -1,79 +1,72 @@
-# 👋 Hi there, I'm @cowori
+# Hi there, I'm Collins Mark Owori
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge)](https://github.com/yourusername)
-
----
-
-🎯 **About Me**
-
-I am a passionate and results-driven IT Specialist with experience in:
-- 🔧 Systems Administration & Network Security
-- ☁️ Cloud Services
-- 🧠 Data Analysis & Visualization 
-- 🔐 IT Security: IDS, SIEM, and Firewall configuration
-- 💡 Software Development & Automation 
-
-With a background in **Physics and Computer Science**, I combine analytical thinking with technical know-how to deliver scalable, secure, and user-centric solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collin-mark-owori-2b2424222/)
+[![GitHub Followers](https://img.shields.io/github/followers/CollinsMarkOwori?label=Follow&style=for-the-badge)](https://github.com/CollinsMarkOwori)
 
 ---
 
-🛠️ **Tech Stack**
+**About Me**
+
+I'm a dedicated and innovative **IT professional** with hands-on experience in:
+
+-  Systems Administration & Network Security
+-  IT Security (IDS, SIEM, firewall configuration)
+-  Cloud Services (Microsoft 365, SharePoint, Azure)
+-  Data Visualization using Power BI
+-  Workflow Automation using Power Automate
+-  Software Development with HTML, CSS, JavaScript, Python, and SQL
+
+My academic background in **Physics and Computer Science** enables me to approach complex technical problems with a logical and analytical mindset. I’m passionate about designing scalable solutions and leveraging technology to enhance organizational efficiency.
+
+---
+
+**Tech Stack**
 
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-**Frameworks & Platforms:**  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**Cloud & DevOps:**  
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+**Tools & Platforms:**  
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-742774?style=flat&logo=microsoft-power-automate&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
-
-**Tools & Technologies:**  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078d4?style=flat&logo=microsoft-sharepoint&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-📈 **GitHub Stats**
+**GitHub Stats**
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide=prs&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+![Collins' GitHub Stats](https://github-readme-stats.vercel.app/api?username=cowori&show_icons=true&theme=github_dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cowori&layout=compact&theme=github_dark)
 
 ---
 
-🚀 **Projects Showcase**
+**Projects Showcase**
 
-- **[Project 1 Name](https://github.com/yourusername/project1)**  
-  Description: A brief explanation of what this project does, tools used, and the outcome.
+- **[Power Automate Uber Request Workflow](https://github.com/CollinsMarkOwori/uber-approval-flow)**  
+  Automates Uber service request approvals using Teams Adaptive Cards and SharePoint integration.
 
-- **[Project 2 Name](https://github.com/yourusername/project2)**  
-  Description: Explain how this helped solve a problem or added value to your work/study.
+- **[Firewall Policy Automation Tool](https://github.com/CollinsMarkOwori/firewall-policy-tool)**  
+  Streamlines firewall rule configurations and generates policy logs using Python and YAML.
 
-- **[Power Automate: Uber Service Flow](https://github.com/yourusername/uber-approval-flow)**  
-  Automates Uber request approvals with adaptive cards in Teams and SharePoint logging.
+- **[SIEM Log Parser](https://github.com/CollinsMarkOwori/siem-log-parser)**  
+  A Python-based tool for parsing and filtering raw logs for ingestion into SIEM platforms.
 
 ---
 
 📬 **Let's Connect**
 
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: [collinsmarkowori@gmail.com](mailto:collinsmarkowori@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/collin-mark-owori-2b2424222](https://www.linkedin.com/in/collin-mark-owori-2b2424222/)
 
 ---
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
 
 
